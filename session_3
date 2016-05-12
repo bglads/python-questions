@@ -1,0 +1,22 @@
+A palindrome is a word that is spelled the same backward and forward, like “noon”
+and “redivider”. Recursively, a word is a palindrome if the first and last letters are the same and the
+middle is a palindrome.
+Write a function to check if a given string is a palindrome?
+
+
+Write a function to print a fibonacci number given its index
+fibonacci sequence is 
+1, 1, 2, 3, 5 ...
+Given an index print the fibonacci number at that index
+
+
+The built-in function eval takes a string and evaluates it. Check its 'help' output.
+Write a function called eval_loop that iteratively prompts the user, takes the resulting input and evaluates it using eval
+, and prints the result.
+
+
+A Caesar cypher is a form of encryption that involves “rotating” each letter by a fixed number of places. To rotate a letter means to shift it through the alphabet, wrapping around
+to the beginning if necessary, so ’a’ rotated by 3 is ’d’ and ’z’ rotated by 1 is ’a’.
+Define a function that takes a string and an integer as parameters, and returns a new string that contains the letters from the original string rotated by the given amount.
+
+
